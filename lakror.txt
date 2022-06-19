@@ -1,0 +1,44 @@
+
+<html>
+<body>
+
+<center> 
+<h1 style="color:#954535";> LAKROR ME PETA <h1> 
+<img src="67.jpg";  height="380" ; width="520";>
+<h2 style="color:#003399";> Përbërësit: </h2>
+
+<ol type="1";>
+<li style="font-size:20px";> 1 kg hithra të freskëta </li>
+<li style="font-size:20px";> 500 gr Miell </li>
+<li style="font-size:20px";> 250 ml Ujë </li>
+<li style="font-size:20px";> Kripë </li>
+<li style="font-size:20px";> Vaj Ulliri </li>
+<li style="font-size:20px";> Pak gjalpë </li>
+<li style="font-size:20px";> Sodë Buke </li>
+<li style="font-size:20px";> Dy qepë të njoma (sipas preferencës) </li>
+</ol>
+
+<h2 style="color:#003399";> Përgatitja Fillestare: </h2>
+<h3 style="color:#100c08";> Vendosim një tenxhere në zjarr dhe shtojmë aty gjalpë të freskët. Shtojmë djathin e bardhë të thërrmuar. Nëse do përdorni djathë kaçkavall 
+atëherë do duhet që ta shtoni në fund të përgatitjes së oshmarit.E kaurdisim pak dhe më pas shtojmë qumështin dhe ujin. I lëmë të ziejnë derisa të marrin valën e parë,
+e më pas menjëherë shtojmë miellin e misrit.E përziejmë shpejt dhe pa ndërprerje me një lugë druri në mënyrë që të mos krijohen kokërriza. Përzihet derisa masa të 
+shkëputet nga anët e enës. Ndahet në pjata lugë- dhe sipër i hidhet pak djathë i thërrmuar. Nëse dëshironi, para se ta piqni plotësisht në tenxhere dhe pasi ka nisur 
+të trashet, oshmarin mund ta fusni edhe për 15 minuta në furrë të parangrohur. </h3>
+
+<h2 style="color:#003399";> Përgatitja E Brumit Dhe Mbushjes Me Hithra: </h2>
+<h3 style="color:#100c08";> Si fillim, përgatisim brumin, duke hedhur në një tas të madh miellin. Pasi bëjmë një gropë në mesin e miellit hedhim kripën, sodën dhe i 
+përzjejmë me dorë.Nisim të shtojmë ujë të vakët derisa brumi të krijohet në një masë të butë dhe të përshtatshme për t’u hapur në formën e petës. Brumin e përftuar, ta
+ mbuloni me një pecetë të pastër dhe e lëreni përreth gjysmë ore që të fryhet ndërsa nisni përgatitjen e hithrave.Skuqni qepët e grira në vaj ulliri, shtoni hithrat, 
+të cilat më parë i kemi pastruar dhe i kemi zjerë me një valë. Kaurdisim qepët me hithrat derisa të njëtrajtësohen e më pas hedhim kripë.
+I përzjejmë për dy minuta. Për të përftuar një masë pak të trashë të gjellës me të cilën do të përgatisim lakrorin, në një gotë të vogël mund të hedhim një lugë miell 
+dhe ta tretim me dy lugë kos. Këtë masë më pas e shtojmë tek hithrat dhe përzjejmë masën. Të njëjtën gjë mund të bëjmë edhe me qumësht në vend të kosit. Pasi e 
+përgatisim gjellën me hithra, e lëmë të ftohet. Gjatë kësaj kohe brumi është gati për t’u punuar.Brumin e ndajmë në dy pjesë, ku pjesa e sipërme duhet të jetë më e 
+vogël se e poshtmja. Pasi hapim petën e poshtme e shtrojmë në tepsi, të cilën e kemi lyer njëtrajtësisht me vaj ulliri, hedhim mbushjen me hithrat në të gjithë petën 
+që kemi shtruar më parë.Ndërkohë, hapim petën e dytë më të madhe dhe e vendosim sipër duke i kthyer pak anët. Në mungesë të saçit tradicional, fare mirë lakrorin mund 
+t’a pjekim në furrë në 180 gradë për 20-30 minuta deri sa të marrë pjekjen e duhur.Në fund të përgatitjes, pasi lakrori është pjekur e nxjerrim nga furra dhe e lyejmë 
+me një lugë gjalpë fshati. </h3>
+
+</center>
+<body bgcolor="#00ff7f";> 
+</body>
+</html>

@@ -1,0 +1,129 @@
+
+<html>
+
+<head> 
+<title> Historiku </title> 
+</head>
+ 
+<body>
+
+<br/>
+
+<center> <h1 style="color:purple";> HISTORIKU I QYTETIT: FIERI </h1> 
+<h3 style="color:brown";> Fieri është një qytet në Shqipërinë e Jugut, i cili i përket Rrethit e Qarkut të vetë Fierit. Për herë të parë emri i këtij qyteti ndeshet 
+në dokumentet osmane të vitit 1737. Atëherë quhej “Fierza” dhe nuk ishte tjetër veçse një fshat i vogël me disa shtëpi të vogla. E diskutueshme ka mbetur edhe origjina
+e emrit Fier për të cilin sot ekzistojnë dy hipoteza.                                  
+E para është ajo e studiuesit Hysen Emiri, i cili mendon se emri Fier rrjedh nga italishtja “Fiera’’, që do të thotë panair. Sipas tij, këtë emër ja vendosën 
+tregtarët venedikas që merreshin me blerjen e produkteve bujqësore-blegtorale në panairin që zhvillohej pranë kishës së Shën Gjergjit, ndoshta që nga koha e Mesjetës.
+Hipoteza e dytë mbi origjinën e emrit “Fier” është ajo e studiuesit Toli Shabani. Ai thekson se ky emër ka origjinë bimore, pra vjen nga bima e fierit. Pika më e fortë
+e kësaj teze është se, në të gjithë zonën e Myzeqesë së Vogël mbizotërojnë toponimet me origjinë bimore si: Sheq, Marinas, Marinëz, Frashër, Sheqishtë, Qarr, Pishë, 
+Fikth, Kallam, Shkozë, Drizë, etj.
+Fieri u themelua ne vitin 558 p.e.s në një kodër pranë detit dhe afër grykëderdhjes së lumit Aoos (Vjosa) nga kolonitë e ardhura prej Korintit e Korfuzit. 
+Në lulëzimin e tij mendohet të ketë pasur një popullsi prej 50 000 - 60 000 banorësh.                                                                                  
+Në vitin 1769 Fieri ishte një fshat me rreth 24 shtëpi prej balte dhe qerpiçi të ndërtuara nga voskopojarët që sapo ishin ngulur në të dhe rrethinat përreth. Qyteti 
+modern i Fierit u themelua më 1864 nga Kahraman Pashë Vrioni dhe djali i tij, Omer Pashë Vrioni, të cilët me ndihmën e urbanistëve dhe arkitektëve francezë hodhën 
+themelet e tij. Fizionominë e këtij plani, qyteti i Fierit e ruan edhe sot ku ndërthuren dy sisteme; ai kuadratik dhe rrezor.    
+Në fund të shekullit të XIX Fieri kishte 4 lagje: Shkozë, Belik, Kishë dhe Pasha. Monumentet më të rëndësishme arkeologjike në të janë : muri rrethues, biblioteka, 
+Odeoni, Portiku dhe Kisha Bizantine e shekullit të XIII. 
+Përsa i përket qytetit të Fierit popullsia e tij pas viteve '90 të shekullit të XX numëronte 40 000 banorë, kurse në ditët e sotme, si rezultat i dyndjes së popullsisë
+nga rrethi i Mallakastrës dhe nga rrethet veriore të vendit, vlerësohet që popullsia e këtij qyteti të ketë arritur në 122 000 banorë, ndërsa e qarkut 302 mijë banorë.
+Fieri është një nga qytetet më të zhvilluara dhe populluara në Shqipëri. Deri tani qëndron në vendin e 7-ë për nga përmbajtja demografike. Regjistrimi i parë i 
+popullsisë është ai i vitit 1923, kur Fieri ishte nënprefekturë në nënvarësinë e Beratit. Në përbërjen e Fierit futeshin 2 krahina: rrethi Fier me 71 fshatra, 2193 
+shtëpi, 12.760 banorë dhe krahina e Semanit me 22 fshatra, 305 shtëpi dhe 1940 banorë. Në vitin 1958 sipas ndarjes së re administrative rrethi kishte një sipërfaqe 
+prej 1175 km². 
+12 km larg këtij qyteti, ndodhen rrënojat e qytetit antik të Apolonisë, i cili ka qenë gjithmonë Kryeqendra e historisë së Fierit. I themeluar në vitin 587 p.e.s. 
+nga kolonët korkyras. Apolonia jetoi rreth 1200 vjet dhe në kulmin e lulëzimit të saj në një sipërfaqe prej 140 ha jetonin 60 000 banorë. Zhvillimi i madh kulturor 
+që mori qyteti vërtetohet me faktin se në shekullin e I p.e.s. Perandori i parë romak Oktavian Augusti studioi në Akademinë e Apolonisë. Apolonia është një qendër që 
+tërheq më tepër vizitorë e turistë të huaj të apasionuar pas arkeologjisë dhe historisë së lashtë të këtij qyteti. Monumentet kryesore të qytetit antik të Apolonisë 
+janë Sheshi i Portikëve, Odeoni, Temosi, Nimfeu, Buletarioni.
+Pranë Apolonisë ndodhet Manastiri i Pojanit, një simbol i historisë dhe kulturës së shekullit XIII. Me një stil bizantin ai konsiderohet si një kompleks arkitektonik 
+mjaft interesant së bashku me kishën dhe inferieret me dekorimet dhe pikturat murale të veçanta. Para 30 vjetësh ky manastir u shndërrua në një muzeum, ku ruhen 
+statujat e periudhes iliro – helenike dhe asaj romake, duke u shndërruar kështu në një qendër mjaft të rëndësishme kulturore artistike që pasurohet dhe me zbulimet e 
+reja arkeologjike.
+Pervec këtyre objekteve kulturore të lartpërmendura, mund të shtojmë dhe 3 të tjera: </h3>
+
+<ol type="1";>
+<li style="font-size:20px"; color:"black";> MUZEU HISTORIK – Muzeu historik paraqet në mënyrë të përmbledhur gjithë historinë shumëshekullore të Fierit. Një vend të rëndësishëm zë 
+pasqyrimi i monumenteve kulmore të historisë krahinore si aktivitetet patriotike, kryengritjet fshatare, luftërat për liri e pavarësi. Aty përfshihet edhe kultura 
+materiale popullore, kultura etnografike, kultura e krishterë etj. </li>
+<li style="font-size:20px"; color:"black";> LIBRARIA -- Libraria është një nga institucionet kulturore më të rëndësishme, me ambiente pune të bollshme të cilat e radhisin atë në 
+një nga bibliotekat më të mira në vend. Në ambientet e saj zhvillohen mesatarisht 60 – 70 aktivitete të llojeve dhe natyrave të ndryshme artistike, shkencore, sociale.
+Numri i lexuesve të regjistruar arrin mbi 5000 persona në vit. </li>
+<li style="font-size:20px"; color:"black";> TEATRI BYLIS -- Teatri Bylis i ndërtuar në vitin 1971 është një qendër shumë e rëndësishme e artit dhe kulturës. Ka një kapacitet prej 400
+vendesh, ku organizohen mjaft shfaqje nga trupa teatrore e estrades së Fierit, festivale tradicionale lokale e rajonale, si dhe shumë veprimtari të tjera 
+të larmishme. </li>
+</ol>
+
+<center>
+<img src="7.jpg"; width="600" ; height="400";>
+<img src="8.jpg"; width="600" ; height="400";>
+<img src="9.jpg"; width="600" ; height="400";>
+<img src="10.jpg"; width="600" ; height="400";>
+</center>
+
+<hr> </hr>
+
+<center> <h2 style="color:purple";> HISTORIKU I GJITHË KRAHINËS: MYZEQEJA </h2> </center>
+<h3 style="color:brown";> Fusha e Myzeqesë në lashtësi quhej Gylakea, sipas emrit të komandantit grek që pushtoi Apoloninë dhe, në lashtësinë e vonë deri Mesjetën e 
+hershme quhej Fusha e Savrës (Saura). Në vitin 620 para krishtit 200-kolonë (fshatarë grek) me në krye të dëbuarin Gylak, të ardhur nga tre fshatra greke, u lejuan të 
+futeshin në Apoloninë ilire. Këta kolonë fshatarë u përpoqën që fushës së bukur të Myzeqesë t’i jepnin emrin e Gylakut. Ata e quajtën Gylakion Pedion (Fusha e Gylakut).
+Herodoti (484-425 p.Kr) e quan fushën e Myzeqesë si Fusha e Apolonisë. Më tutje mori emrin e sotëm Myzeqe nga familja fisnike të Muzakajve, e cila ka qenë sundimtare e 
+kësaj krahine gjatë shekujve të XIV dhe XV. Lidhja e Muzakajve me emrin Myzeqe mbështetet tek një dokument venedikas i 28 prillit 1412, ku emri i kësaj fushe është 
+Muzakia. Ky toponim, ndër më të mëdhenjtë në Shqipëri, arriti deri në ditët tona, në saj të autoritetit dhe ndikimit që ka pasur familja princërore e Muzakajve, 
+e cila ka luajtur një rol të rëndësishëm ekonomik gjatë Mesjetës. Edhe në një dokument tjetër venedikas të 13 qershorit të vitit 1382 përmendet për herë të parë Kulla 
+e Pirgut në jug të Karavastasë. Ishte Nikolla Muzaka ai, që e pa të nevojshme ndërtimin e një fortifikimi të tillë për të mbrojtur skelën lumore me të njëjtin emër, 
+Skela e Pirgut të Myzeqesë. Në përshkrimin që i kanë bërë ngjarjeve dhe vetë kësaj treve, e kanë quajtur me emra të ndryshëm por në të shumtën e rasteve dominon emri 
+“Myzeqe”. Një informacion mbi emrin “Myzeqeja” na vjen dhe nga një dokument raguzian. Kështu ky dokument i vitit 1417, përmend “Via de Musachia” Në mesjetë Myzeqeja 
+quhej “Savra”. Këtë e pohon Barleti, kur flet për betejën midis Karl Topisë dhe Balshës II e quan fushën “planicies saura” afër Beratit. Por një dokument Venedikas i 
+vitit 1570 përputh emrin “Savra” me emrin “Musachia”, ku shkruhet: “spatiose pianuredella savra la quale in un altro nome si dice Musachia”.                                                                                                
+Një mendim tjetwr për emrin e Myzeqesë na vjen dhe nga Gjon Muzaka. Ky princ në kronikën e shtëpisë Muzaka shkruar në Itali më 1510, shkruan: “Myzeqeja në kohët e 
+vjetra banohej nga popujt Molosë, nga ku u quajt Molosia, dhe meqenëse ne kemi qenë gjithnjë zot të këtij vendi, morëm mbiemrin Molosaku, por fjala Molosia u deformua
+dhe u bë Myzeqe, që në shqip thuhet Muzakiti” Zef Jubani hedh mendimin se emri Myzeqe vjen nga emri “Muzika”. Ai shkruan: “nuk ka dyshim, pra se shqiptarët, 
+në përgjithësi janë të pajisur me ndjenjën e muzës dhe të melodisë. Filozofët tanë të vjetër zbuluan praninë e saj dhe prandaj i kushtuan perëndisë së muzikës qytetin 
+e Pojanit, tashmw i rrënuar mbi brigjet e Adriatikut, dhe e ngritën për të qenë si mësim dhe si model për kombin e vet dhe për popujt e huaj. Banorët e atyre vendeve 
+mbajnë ende me vete emrin myzeqar, që do tw thotw, njerëz të prirur nga muzika, të cilët i përgjigjen edhe sot me fakte këtij atributi 
+tradicional. Në këtë pikëpamje, kwngët e Shqipwrisë së mesme ose ato të Myzeqesë, janë më të mirat dhe mw të kërkuarat e këtij kombi”.
+Kurse Eduard Lir e quan fushën e Myzeqesë, fusha e Apolonisë. Ai më 17 tetor 1848 ndaloi në Manastirin e Ardenicës. Eduart Lir ishte poet dhe piktor anglez. Për 
+Ardenicën, nusen e bukur të Myzeqesë, ai shkroi: “ Ardenica ishte vërtet e mrekullueshme….prej andej dukej gjithë bota. Në veri humbisnin në mjegull malet e Shkodrës, 
+Krujës e Tiranës. Në lindje, fare pranë, ngrihej hijerëndë Tomori. Në jug shtrihej fusha e Apolonisë e valëzuar nga kodra të buta e ndërsa në perëndim shkëlqen deti”.                                           
+Ndërsa sipas albanologut rumun Nikolla Jorga, emri Myzeqe vjen vjen nga fjala muzg.
+****
+Në territorin e saj gjarpëronte rruga më e gjatë e lashtësisë, rruga Egnatia, së bashku me degën jugore të saj. Në këto qytete kanë jetuar ilirët taulantë dhe parthinë.
+Në Myzeqe u rrit Pirrua i Epirit. Aty ka studiuar perandori August Oktaviani si dhe kanë qëndruar ciceronë të shquar të Romës, kanë marshuar e luftuar burra si Filipi 
+i V, konsulli romak Sulpici, gjeneralë, si Pompeu e Jul Qezari. Në periudhën e sundimit të gjatë sllav të Uroshit të II, kjo fushë njihet me emrin Fusha e Savrës. 
+Bregdeti quhej "slanica" (kripore) dhe kryeqendër ka qenë Bashtova me kështjellën e saj veneciane. Kujtojmë se kjo kështjellë në mesjetë gjendej në të majtë të lumit 
+Shkumbin. Kur ky lum ndryshoi drejtimin e derdhjes, kështjella dhe disa fshatra të Myzeqesë mbetën në anën e djathtë të lumit dhe sot e kësaj dite janë nën 
+juridiksionin e Kavajës. Nëpërmjet skelës lumore të pirgut në ato kohë eksportohej drithë në drejtim të Raguzës nga anijet e huaja dhe ato të sundimtarëve vendas.
+Në mesjetë në Myzeqe, marshuan, ngritën kampin dhe luftuan ushtritë e Bizantit, të gjermanit Manfred Hohenshtaufenit, të Normanëve. Më vonë Myzeqenë e shkeli ushtria 
+e Karlit I Anzhu. Më 1336 në Despotatin e Beratit do të shkelte për herë të parë këmba e ushtrisë turke. Në kohën moderne, në Myzeqe (në Portëz) u krijua më 1835 
+“Besëlidhja e Portëzës”, vendimet e së cilës ishin me karakter autonomist dhe shtet-formues. Po në Myzeqe (Fier) erdhi dhe bisedoi Avdyl Frashëri, i cili gjeti një 
+mbështetje të sinqertë nga populli dhe paria e Fierit (Familja Vrioni) për Lidhjen e Prizrenit.
+Në Fier më 7 gusht 1912 nën drejtimin e Ismail Qemalit u mbajt Kuvendi i Fierit, ku morën pjesë 300-burra, gjithë paria patriotike dhe komandantët e çetave të 
+Toskërisë, duke filluar nga Tetova e deri në Janinë. Prej këtij Kuvendi, Ismail beu mori rrugën për në Stamboll dhe nëpër kancelaritë e Europës. Po nëpërmjet Rrugës 
+së Karatoprakut, që kalonte në pjerrësitë perëndimore të kodrave të Ardenicës, kaloi burri i pavarësisë, Ismail Qemali në Nëntor 1912.
+Në dimrin e vitit 1913, në zonën Grizë dhe Libofshë u përqendrua gjithë Armata Turke e Vardarit, e cila në prill të atij viti, u imbarkua në Portin e Semanit drejt 
+Turqisë. </h3>	
+
+<img src="11.jpg"; width="500" ; height="400";>
+<img src="12.jpg"; width="500" ; height="400";>
+<img src="13.jpg"; width="500" ; height="400";>
+<img src="14.jpg"; width="500" ; height="400";>
+</center>
+
+<body bgcolor="pink";>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

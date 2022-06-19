@@ -1,0 +1,105 @@
+
+<html>
+
+<head> 
+<title> Ceremoni Te Ndryshme </title> 
+</head>
+ 
+<body>
+<br/>
+
+<center> <h1 style="color:#c71585";> CEREMONITË NË SHQIPËRINË E JUGUT </h1> 
+<h2 style="color:#191970";> Dasma është një ceremoni ku dy njerëz bashkohen në martesë. Në traditat e Beratit ceremonitë e një martese fillojnë nga e marta e deri në 
+fund të javës dhe ceremonitë janë të ndryshme për dhëndrin dhe për nusen. </h2>
+<br/>
+
+<h2 style="color:yellow";> Për nusen: </h2>
+<h3> Të enjeten shkon pala e familjes tek vajza; jep pajen dhe merr fustanin . Të martën fillon kënaja dhe lyerja e flokëve. Të enjten tjeter vijnë njërzit e burrit 
+me fustanin. Ditën behet aheng me shoqerinë e me njerëz të afërt.  Të shtunën vijnë njërzit e djalit për të përzjerë bukën që të njifen  miqtë. Të dielen  nusja bëhet 
+gati dhe ikin krushqit për ta marrë. Krushqit përfaqësohen nga daja ose xhaxhai. Ne rrugen per tek makina nje njeri e sperkat rrugen me raki per te ruajtur nga syri i 
+keq. </h3>
+
+<h2 style="color:yellow";> Për dhëndrin: </h2>
+<h3> Hapet ahengu të martën. Të enjtet çon dhuratat,  fustanet dhe marrin pajën e nuses. Të shunën djali qethet nga berberi në prani të shoqërise. Krijohet një rreth 
+duke kërcyer shoqëria  dhe I hidhen lekë berberit dhe ai doroviset. Të djelën vishet me koshum i shoqëruar nga daja ose motra për të marrë nusen . Kur vjen nusja 
+vjerra bën një pjatë me mjaltë për ta lyher sipër derës për të qënë nusja e ëmbël dhe një shtung te dera për ta shtyrë . Pas një  martese vjen fëmija dhe nuk  mungojne
+disa rite për tu shuar mbarësi në  trashgimi dhe për te pritur një  pjestar të  ri në  famijle. </h3>
+
+<h2 style="color:yellow";> Për fëmijën: </h2>
+<h3> Ne krahinen beratase kur nje femije I ri vjen ne jete te gjithe I vendosin nje lek leter ose dhe monedhe me kuptimin qe femija te rritet dhe te behet I forte.
+Nje rit tjeter qe bejme per familje me femije me te medhenj e fillojme duke i vendosur nje veze ose biskote tek kembet dhe i tregojme kemben femijes tjeter  per mos  
+treguar xhelozi ndaj vellait ose motres. Gjithashtu kur kemi një  fëmije të  ri ne familje I cili ka mbushur 40 ditë  jetë  iu përgatitet bukë vale e cila thyhet në  
+mes dhe shoqërohet me urime për femijen. Për të  gjithë  prindërit që  duan që  fëmija e tyre të  bëhet dikushi në  jetë  kemi dhe një  rit I cili gjen profesionin e 
+tyre. Si fillim, marrin disa objekte që  përfaqësojne profesionet dhe I vendosim në  tokë  ku fëmija I vogël që ka mësuar të  kapi objekte të  zgjedhi nje nga këto 
+dhe kështu mund te shikoni fëmijen tuaj si një avokat ose biznesmen. </h3>
+
+<img src="37.jpg"; width="600" ; height="400";>
+<img src="38.jpg"; width="600" ; height="400";>
+<br/>
+<hr> </hr>
+<br/>
+
+<h1 style="color:#d2691e";> Organizimi I Dasmave Në Divjakë </h1>
+<h2 style="color:#191970";> Në dasmat tradicionale të zonës së Divjakës dhe Lushnjes, dasma fillon që ditën e hënë, por zakonet më tradicionale janë: </h2>
+<ol type="1";>
+<li style="font-size:20px"; color:"black";> Marrja e pajës & qepja e nishanit </li>
+<li style="font-size:20px"; color:"black";> Dasma e vajzës ditën e shtunë </li>
+<li style="font-size:20px"; color:"black";> Marrja e nuses ditën e dielë me barjak & dasma e djalit </li>
+<li style="font-size:20px"; color:"black";> Ditën e hënë pas dasmës-bërja e kulaçit dhe kafes </li>
+<li style="font-size:20px"; color:"black";> Ditën e martë,nusja shkon tek prindërit për të ngrënë petulla  </li>
+</ol>
+
+<h2 style="color:yellow";> Marrja e pajës & qepja e nishanit (Dita e enjte) </h2>
+<h3> Para se të vijë krushqia për të marrë pajën ditën e enjte,në shtëpinë e vajzës mblidhen të afërmit dhe fqinjët për të qepur nishanin. Nishani përbëhet nga disa 
+shami me ngjyra dhe pëermasa të ndryshme te vendosura nga shamia me përmasa më të mëdha në pjesën e poshtme dhe shamitë më të vogla siper.Në cepat e shamive qepen 
+monedha dhe në qendër të shamisë qepen lule natyrale dhe lesh deleje me ngjyrë të bardhë dhe të kuqe.Qepja e nishanit bëhet nga dy vajza beqare dhe ndërkohë që qepet 
+nishani,gratë këndojnë këngë popullore.	E veçanta e këtyre shamive është se qepen bashkë pa e lidhur perin nyjë.Ky nishan që qepet në shtëpinë e vajzës,do të sherbejë 
+për barjakun.Pasi mbaron qepja e nishanit,vijnë krushqit për të marrë pajën.Pas një qerasjeje të shkurtër bëhet nxjerrja e pajës nga djemtë e fisit dhe ngarkohet në 
+makinat e krushqve.Paja,kur shkon në shtëpinë e çiftit shkarkohet përsëri nga djemtë.Të enjten dhe të premten në darke,mbldhen tek shtëpia e vajzës dhe djalit dhe 
+bëhet aheng me këngë popullore. </h3>
+
+<h2 style="color:yellow";> Dasma e vajzës ditën e shtunë </h2>
+<h3> Ditën e shtunë,vajza bëhet nuse dhe fillon dasma në shtëpinë e vajzës.Vallja e hapjes është nga familja dhe më pas kërcejnë të gjithë sipas dëshirës. Nga gjysma 
+e dasmes vijnë krushqit.Bashkë me krushqit vjen dhe dhëndri.Më pas ngrihet nusja,dhëndri dhe familja e nuses dhe bëhet dorovitja e çiftit nga të gjithë dasmorët, 
+perveç krushqve.Mbasi kërcejnë të gjithë dasmorët,rradhën e kanë krushqit.çohet krushqia në  valle dhe të gjithë dasmorët cohen në këmbë dhe kërcejnë pau futur në 
+vallen e krushqve.Krshqit kërcejnë dhe dorovitin çiftin.Serviret ëmbëlsira dhe krushqit largohen.Dhëndri qendron me nusen në dasmë.Ndërkohë që dasma e vajzës vazhdon,
+në  shtëpinë e dhendrit bëhet aheng prej shoqërisë së dhëndrit dhë pjesëtarë të tjerë të fisit. Kërcehet deri kur të kthehen krushqit.	 </h3>
+
+<h2 style="color:yellow";> Marrja e nuses ditën e dielë me barjak </h2>
+<h3> Të dielën herët në mëngjes vajza vishet me fustanin e bardhë.Ndërkohë,në shtëpinë e dhëndrit bëhen pregatitjet për marrjen e nuses.Dhëndrit i hiqet mjekrra nga 
+kumbari i tij në mes të oborrit dhë dorovitet nga familja e tij.Pasi heq mjekrrën,vesh kostumin dhe niset me krushqit për të marrë nusen.Para se të marrin nusen,
+përgatitet barjaku.Pasi merret nusja,behet ceremonia në kishë.Pas ceremonisë fillon dasma.Ngjarjet vazhdojnë si në dasmën e vajzes. </h3>
+
+<h2 style="color:yellow";> Ditën e hënë pas dasmës-bërja e kulaçit dhe kafes </h2>
+<h3> Të hënën, në shtëpinë e çiftit vijnë familjarët per vizitë. Nusja i qeras me kafe dhe kulaç. Vizitorët janë të detyruar të hedhin para. </h3>
+
+<h2 style="color:yellow";> Ditën e martë,nusja shkon tek prindërit për të ngrënë petulla </h2>
+<h3> Të martën, nusja dhe dhëndri kthehen ne shtëpinë e vajzes në të cilën vjehrra e qeras dhëndrin me petulla. </h3>
+
+<img src="39.jpg"; width="600" ; height="400";>
+<img src="40.jpg"; width="600" ; height="400";>
+<br/>
+
+<h2 style="color:#ff4500";> Shënim:! </h2>
+<h3> Paja ka si qëllim kompletimin e shtëpisë së çiftit. Barjaku është shkop i gjatë rreth tri metra në të cilin lidhet nishani i qepur te nusja. Në majë të shkopit 
+vendoset një degë me tri maja në të cilat vendosen tri kokrra molle. Një nga këto mollë duhët ta vjedhin njerëzit e nuses kur shkojnë krushqit për të marrë nusen. Në 
+rast se nuk arrijnë ta vjedhin, njerëzit e dhëndrit e hedhin nje mollë. </h3>
+<hr> </hr>
+
+<body bgcolor="#d891ef";>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

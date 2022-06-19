@@ -1,0 +1,52 @@
+
+<html>
+<head>
+<title> Foto te Ndryshme </title>
+</head>
+
+<body>
+<center>
+<h1 style="color:purple"> PAMJE DHE VIDJO NGA SHQIPËRIA JUGORE: </h1>
+<br/>
+
+<h2 style="color:blue";> BERATI: </h2>
+<img src="15.jpg"; width="520" ; height="400" ;> 
+<img src="16.jpg"; width="520" ; height="400" ;>
+<hr> </hr>
+
+<h2 style="color:blue";> KORÇA: </h2>
+<img src="17.jpg"; width="520" ; height="400" ;> 
+<img src="18.jpg"; width="520" ; height="400" ;>
+<hr> </hr>
+
+<h2 style="color:blue";> LUSHNJA/DIVJAKA: </h2>
+<img src="21.jpg"; width="520" ; height="400" ;> 
+<img src="22.jpg"; width="520" ; height="400" ;>
+<hr> </hr>
+
+<h2 style="color:blue";> TEPELENA: </h2>
+<img src="23.jpg"; width="520" ; height="400" ;> 
+<img src="24.jpg"; width="520" ; height="400" ;>
+<hr> </hr>
+
+<h2 style="color:blue";> VLORA: </h2>
+<img src="25.jpg"; width="520" ; height="400" ;> 
+<img src="26.jpg"; width="520" ; height="400" ;>
+<hr> </hr>
+
+<h2 style="color:blue";> GJIROKASTRA: </h2>
+<img src="27.jpg"; width="520" ; height="400" ;> 
+<img src="28.jpg"; width="520" ; height="400" ;>
+<hr> </hr>
+
+<h2 style="color:blue";> PËRMETI: </h2>
+<img src="29.jpg"; width="520" ; height="400" ;> 
+<img src="30.jpg"; width="520" ; height="400" ;>
+<video width="520"; height="400"; controls>
+<source src="video.mp4"; type="video/mp4";>
+</video>
+</center>
+
+<body bgcolor="#e4d00a";>
+</body>
+</html>

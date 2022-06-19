@@ -1,0 +1,59 @@
+
+<html>
+<head>
+<title> Vegla Muzikore </title>
+</head>
+
+<body>
+<center>
+<h1 style="color:purple";> VEGLAT MUZIKORE NE SHQIPERINE E JUGUT </h1>
+<br/>
+
+<h3 style="color:#228b22";> Mjeshtëria e punimit të veglave muzikore popullore përbën një zeje të veçantë në pamjen e përgjithshme të zejtarisë shqiptare. Deri në 
+momentin kur filluan të hapen dyqanet e para të punimit të veglave (gjysma e dytë e shek. XIX, fillimi i shek. XX), veglat muzikore popullore punoheshin vetë prej çdo 
+familjeje dhe në veçanti prej bartësve të folklorit. Në rrugë artizanale në Shqipëri prodhoheshin dhe ende prodhohen vegla si gajdja, fyelli, curlja dyjare, çiftelia, 
+sharkia, lahuta, dajre, daullja, lauri, buzuku, bakllama etj. Në shumicën e rasteve, mjeshtrat që prodhonin veglat, punonin njëkohësisht edhe përprodhime të tjera të 
+artizanatit popullor. Profilizimi i ngushtë i mjeshtërve të prodhimit të veglave u formua rreth fillimit të shek. XX. </h3>
+
+<h2 style="color:#e8000d";> Fyelli </h2>
+<img src="34.jpg"; width="520" ; height="400" ; align="left";>
+<h2 style="align:right";> Fyelli eshte vegel muzikore popullore frymore e perhapur ne te gjitha krahinat, e njohursidomos si vegla e barinjeve. Trajtat dhe emertimet 
+e fyellit jane te shumta: cirifilja dhe cula e Laberise; duduku i Shqiperise Jug-Lindore; kavalli, qe perdoret me shume ne rrethin e Gramshit; bilibli i perhapur ne 
+mbare vendin; xambarapoxura ne Çamëri; fishkaroli dhe flojera te arbereshet etj. Madhesia e fyellit ndryshon sipas llojeve, nga 18 cm (fyelli i shkurter) deri 90 cm 
+(kavalli). Fyelli ndertohet prej drurit te bushit, teshtogut, te panjes, te arres, por edhe nga gypa metalike, sidomos prej tunxhi e bronzi. Fyelli perdoret kryesisht 
+nga burrat. Repertori i fyelltareve perbehet nga motive te mirenjohura kengesh e vallesh, nga pjese solistike te marra nga vajtimet e grave etj. Figurat muzikore dhe 
+emertimet e pjeseve instrumentale per fyellin lidhen zakonisht me mjediset blegtorale, si “Dhente ne kullote”, “Dhente ne mriz”, “Dhente tek burimi”, “Zilet e dhenve” 
+etj. Tingujt e fyellit kombinohen bukur me te kemboreve dhete zileve te bagetive gjate kullotes. Shpesh bashkohen dy fyej, njeri prej tyre luan melodine dhe tjetri 
+mban iso. </h2>
+<br/>
+<hr> </hr>
+
+<h2 style="color:#e8000d";> Gajdja </h2>
+<img src="36.jpg"; width="520" ; height="400" ; align="right";>
+<h2 style="align:left";> Është një instrument muzikor që përbëhet nga shakulli prej lëkure bagëtietë vogël, buçalla e isos dhe pipa e notave. Tek shqiptarët është e 
+lidhur ngushtë me kultin e blegtorisë. Për këtë arsye, repertori i gajdes përkon ngushtë me këtë sferë të jetës shqiptare. Që në kohët e vjetra sipas Thalloczy 
+(historian Hungarez) : ilirët këndonin këngë lufte të shoqëruara me fyej e gajde. Sot, gjeografikisht gajdja gjendet e përhapur në Shqipërinë e Jugut kryesisht në 
+Toskëri, në rrethet e Beratit, Kuçovës, Pogradecit, Gramshit, Devollit, Korçës, Librazhdit etj. Përdoret si vegël solistike në pjesë të ndryshme, kryesisht kaba, por 
+edhe si vegël shoqëruese në ansamble me vegla popullore kryesisht në funksion të melodisë dhe veçanërisht të iso-pedalit. Si vegël popullore mjaft e përdorur dhe e 
+përhapur, e gjejmë të ndër futur edhe si “të panjohur” në gjegjëzat. </h2>
+<br/>
+<br/>
+<br/>
+<hr> </hr>
+
+<h2 style="color:#e8000d";> Cylja Dyjare (ose cibun) </h2>
+<img src="35.jpg"; width="520" ; height="400" ; align="left";>
+<h2 style="align:right";> Vegel muzikore popullore e perbere nga dy tyta te gdhendura ne nje cope te vetme druri (arre, panje, bushi, etj) me trajten e shkronjes “A”. 
+Eshte nje zhvillimi metejshem i fyellit te zakonshem me sqep dhe tingujt i nxjerr njesoj si ai duke i fryre, quhet ndryshe edhe fyell i dyfishte. Shkon nga 25 cm deri 
+ne 55 cm. Eshte vegel polifonike: tyta e dores se djathte ka 4 vrima siper dhe prapa 1, ndersa tyta tjeter ka vetem 3 vrima paralele me te tytes tjeter. 
+E para perdoret per te luajtur melodine, ndersa tjetra kontramelodine. Repertori i cyles dyjare eshte i kufizuar, me tematika te thjeshta e te shkurtra kengesh e 
+vallesh te njohura, si dhe me tematika te maranga vajtimet e grave. Perdoret kryesisht nga barinjte ne Kurveleshin e Siperm dhe te Poshtem, ne Radhime (Vlore), 
+Kardhiq (Girokaster). Zbulimet arkeologjike ne territorin e Ilirise se Jugut japin te dhena per ekzistencene saj qe ne shekullin e V-VI para eres sone. </h2>
+<br/>
+<br/>
+<hr> </hr>
+
+</center>
+<body bgcolor="#ffb347";>
+</body>
+</html>

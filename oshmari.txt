@@ -1,0 +1,28 @@
+
+<html>
+<body>
+
+<center> 
+<h1 style="color:#f5f5f5";> OSHMARI <h1> 
+<img src="66.jpg";  height="380" ; width="520";>
+<h2 style="color:#f3e5ab";> Përbërësit: </h2>
+
+<ol type="1";>
+<li style="font-size:20px";> 2 lugë gjelle gjalpë të freskët </li>
+<li style="font-size:20px";> 3 lugë gjelle djathë i thërrmuar </li>
+<li style="font-size:20px";> 2 gota uji me qumësht </li>
+<li style="font-size:20px";> 1 gotë me ujë </li>
+<li style="font-size:20px";> 2 filxhanë çaji me miell misri </li>
+</ol>
+
+<h2 style="color:#f3e5ab";> Përgatitja: </h2>
+<h3 style="color:#100c08";> Vendosim një tenxhere në zjarr dhe shtojmë aty gjalpë të freskët. Shtojmë djathin e bardhë të thërrmuar. Nëse do përdorni djathë kaçkavall 
+atëherë do duhet që ta shtoni në fund të përgatitjes së oshmarit. E kaurdisim pak dhe më pas shtojmë qumështin dhe ujin. I lëmë të ziejnë derisa të marrin valën e parë, e më pas menjëherë 
+shtojmë miellin e misrit. E përziejmë shpejt dhe pa ndërprerje me një lugë druri në mënyrë që të mos krijohen kokërriza. Përzihet derisa masa të shkëputet nga anët e 
+enës. Ndahet në pjata lugë-lugë dhe sipër i hidhet pak djathë i thërrmuar. Nëse dëshironi, para se ta piqni plotësisht në tenxhere dhe pasi ka nisur të trashet, 
+oshmarin mund ta fusni edhe për 15 minuta në furrë të parangrohur sa sipërfaqja të marrë një ngjyrë të kuqërremtë. </h3>
+</center>
+
+<body bgcolor="#ff2400";> 
+</body>
+</html>

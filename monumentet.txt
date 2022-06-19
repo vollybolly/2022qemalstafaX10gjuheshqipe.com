@@ -1,0 +1,54 @@
+
+<html>
+<head>
+<title> Monumente Arkitekturore </title>
+</head>
+
+<center>
+<br/>
+<body> 
+<h1 style="color:#ff1493";> TRASHËGIMIA KULTURORE KOMBËTARE ËSHTË SHUMË E PASUR DHE E LARMISHME </h1>
+
+<ul>
+<li style="font-size:20px";> Dallohen qytetet antike ilire, si: Antigonea (shek. III pr.K.), Foinike (Finiqi, shek. III), Amantia (shek. V pr.K.), Orikumi, 
+shek. VI pr.K., Onhezmi (Saranda, qytet dhe skelë antike e shek. VI pr.K.)  </li>
+<li style="font-size:20px";> Ekte të tjera: monumentet arkeologjike (vendbanime të hershme), historike, artitektonike are, mjedisore, muze, si dhe tradita të pasura 
+etnografike, folklorike, zakonore etj. </li>
+</ul>
+
+<h2 style="color:#fe5a1d";> Zonat e mbrojtura dhe monumentet e shumta kulturore të rajonit vizitohen nga shumë turistë vendas dhe të huaj. Kjo u ka dhënë profil turistik 
+disa qendrave të banuara, si: Gjirokastra, Saranda, Ksamili, Dhërmiu, Palasa, Borshi, Qeparoi etj. Midis monumenteve të tjera të shumta të kulturës përmenden:</h2>
+<img src="58.jpg"; width="520" ; height="400";>
+<img src="59.jpg"; width="520" ; height="400";>
+
+<ol type="1";>
+<li style="font-size:20px";> Vendbanimet neolitike , si : vendbanimi palafit i Maliqit dhe i Linit , i shpellës së Trenit etj. </li>
+<li style="font-size:20px";> Qyteti ilir i Pelionit në fshatin Selcë e Poshtme  ku janë varret monumentale ( shek.III pr.K. ) etj. </li>
+<li style="font-size:20px";> Monumentet arkeologjike dhe historike :kalaja e Pogradecit , e ngritur mbi një vendbanim ilir të shek V pr.K. , me jetë rreth 1000 vjet 
+dhe dëshmues i vazhdimësisë iliroshqiptare etj. </li>
+<li style="font-size:20px";> Monumentet fetare  : kisha paleokristiane e Linit ( shek V - VI ) , e përmendur për mozaikët me vlera artistike ; kishat eremite të 
+Prespës , kisha e Shën Marisë (shek . XIV) në ishullin e Maligradit ; kishat e Voskopojës , të përmendura për pikturat murore ; xhamia e Mirahorit në Korçë 
+( shek.XV ) etj. </li>
+<li style="font-size:20px";> Monumentet artitektonike , si : ura e Golikut , banesat popullore në fshatra karaktersitike. </li>
+<li style="font-size:20px";> Monumentet mjedisore si : Pazari mesjetar i Korçës , i rikonstruktuar kohët e fundit. </li>
+<li style="font-size:20px";> Monumentet artistike , si : pikturat e hershme në Shkëmbin e Spillesë ( Prespë e Vogël ) , mozaikët , pikturat kishtare të piktorëve të 
+mëdhenj mesjetarë shqiptarë : David Selenica , Onufri , vëllezërit Zografi , Kostandin Shpataraku etj. </li>
+<li style="font-size:20px";> Muzeu i Artit Mesjetar në Korçë , i përmendur për ikonat me piktura të famshme fetare etj . Trashëgimia e pasur natyrore dhe kulturore 
+përbën pasuri të rëndësishme për zhvillimin e Rajonit Juglindor . Ajo po tërheq gjithmonë e më shumë turistë vendas e të huaj , duke ofruar mundësi të shumta për 
+zhvillimin e qëndrueshëm të turizmit . Kjo trashëgimi duhet mbrojtur , vlerësuar , menaxhuar dhe restauruar me kujdes si trashëgimi kombëtare dhe për qëllime kulturore
+e turistike.  </li>
+</ol>
+
+<img src="60.jpg"; width="520" ; height="400";>
+<img src="61.jpg"; width="520" ; height="400";>
+<img src="62.jpg"; width="520" ; height="400";>
+<img src="63.jpg"; width="520" ; height="400";>
+<img src="64.jpg"; width="520" ; height="400";>
+<img src="65.jpg"; width="520" ; height="400";>
+
+</center>
+<body bgcolor="#a6e7ff";>
+</body>
+</html>
+
+
